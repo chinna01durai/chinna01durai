@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @durai
-- 👀 I’m interested in ...java
-- 🌱 I’m currently learning ...java,kotlin
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Chinna
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...web development
 - 📫 How to reach me ...chinna01durai@gmail.com
 
 <!---
